@@ -523,6 +523,7 @@ nav .form .login .input::before{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
+    column-gap: 30px;
 }
 #diverse .diverse-card #card-color{
     min-width:392px;
